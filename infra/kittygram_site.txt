@@ -1,5 +1,5 @@
-IP: 51.250.21.4
-name_taski: https://practicum.servebeer.com/
-name_kittygram: https://ya-practicum.sytes.net/
-login: root
-password: root
+IP: 51.250.21.4;
+name_taski: https://practicum.servebeer.com/;
+name_kittygram: https://ya-practicum.sytes.net/;
+login: root;
+password: root;
