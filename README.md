@@ -58,5 +58,4 @@ python3 manage.py runserver
 
 ## Основные технические требования
 
-Python==3.9
-
+Python==3.9 
